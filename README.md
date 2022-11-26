@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Gude</h1>
 <h3 align="center">A passionate developer</h3>
 
-- 💬 Ask me about **Node.js,React.js,C++,Python**
+- 💬 Ask me about **Node.js,React.js,Flutter,C++,Python**
 
 - 📫 How to reach me **gudevivek@gmail.com**
 
